@@ -1,6 +1,6 @@
 # Praktikum4
 
-## Labspy02
+## Labspy02 (Praktikum2)
 ### Flowchart menentukan bilangan terbesar dari 3 buah bilangan
 ![image](https://github.com/ZahraNurhaliza/Praktikum4/blob/main/screenshot/Flowchart%20praktikum2.png)
 
